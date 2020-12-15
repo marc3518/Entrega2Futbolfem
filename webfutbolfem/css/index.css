@@ -1,0 +1,43 @@
+* {
+    margin: 3px;
+    padding: 3px;
+    box-sizing:border-box;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: black;
+  }
+  
+  li {
+    float: left;;
+  }
+  
+  li a {
+
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  aside {
+      float: right
+  }
+
+  body {
+    background: black;
+    color: white;
+}
+
+p { 
+    background: black;
+    color: white;
+}
+
+h2 {
+    color: red;
+}
